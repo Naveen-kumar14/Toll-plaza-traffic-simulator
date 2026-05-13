@@ -214,8 +214,8 @@ This project demonstrates practical implementation of:
 
 | Name           | GitHub                                                                     |
 | -------------- | -------------------------------------------------------------------------- |
-| Naveen Kumar C | 
-| Shiv Samarpan  |                                                               |
+| Naveen Kumar C | https://github.com/Naveen-kumar14
+| Shiv Samarpan  |  https://github.com/ShivSamarpanK
 
 ---
 
