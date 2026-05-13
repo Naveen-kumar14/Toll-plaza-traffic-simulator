@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.csv
+.vscode/
+.DS_Store
+Thumbs.db
+toll_plaza
